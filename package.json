@@ -1,0 +1,22 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "Node apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darshanpb/node-js.git"
+  },
+  "author": "darshanpb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darshanpb/node-js/issues"
+  },
+  "homepage": "https://github.com/darshanpb/node-js#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
