@@ -6,7 +6,6 @@ app.set('view engine', 'ejs');
 
 //static files
 app.use(express.static('./public'));
-app.use(express.static('./machstatz'));
 
 //Listen to the port
 app.listen(process.env.PORT || 3000, function(){

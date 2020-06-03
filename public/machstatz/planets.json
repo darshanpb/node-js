@@ -1,0 +1,56 @@
+[{
+		"name": "Mercury",
+		"id": "mercury",
+		"isFavourite": false
+	},
+	{
+		"name": "Venus",
+		"id": "venus",
+		"isFavourite": false
+	},
+	{
+		"name": "Earth",
+		"id": "earth",
+		"isFavourite": false
+	},
+	{
+		"name": "Mars",
+		"id": "mars",
+		"isFavourite": false
+	},
+	{
+		"name": "Ceres",
+		"id": "ceres",
+		"isFavourite": false
+	},
+	{
+		"name": "Jupiter",
+		"id": "jupiter",
+		"isFavourite": false
+	},
+	{
+		"name": "Saturn",
+		"id": "saturn",
+		"isFavourite": false
+	},
+	{
+		"name": "Pluto",
+		"id": "pluto",
+		"isFavourite": false
+	},
+	{
+		"name": "Haumea",
+		"id": "haumea",
+		"isFavourite": false
+	},
+	{
+		"name": "Makemake",
+		"id": "makemake",
+		"isFavourite": false
+	},
+	{
+		"name": "Eris",
+		"id": "eris",
+		"isFavourite": false
+	}
+]
